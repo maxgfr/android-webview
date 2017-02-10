@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\maxime\Desktop\webview android\WebviewMax\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\maxime\Desktop\webview android\WebviewMax\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_abdd1c20c64ef3c6d14a567443d7ddaab4274b25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maxime\Desktop\webview android\WebviewMax\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\maxime\Desktop\webview android\WebviewMax\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_2c12046c89318013c41a3345347f209163dea442\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maxime\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\maxime\Desktop\webview android\WebviewMax\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_74bb2401c12b532211851f01f3f0c8116a26ac56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maxime\Desktop\webview android\WebviewMax\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\maxime\Desktop\webview android\WebviewMax\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_822041031dbd91a4886c08a566bba68cd2fd96bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maxime\Desktop\webview android\WebviewMax\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\maxime\Desktop\webview android\WebviewMax\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_8230919ba62f16ea1b1f0ea6b7bc46bff1dbd9c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maxime\Desktop\webview android\WebviewMax\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\maxime\Desktop\webview android\WebviewMax\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_6407abff647ecddcd90aaca02e361a3e7ffc285d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maxime\Desktop\webview android\WebviewMax\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\maxime\Desktop\webview android\WebviewMax\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_077c24b629431373fb1555b3a42fabeeb337118e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maxime\Desktop\webview android\WebviewMax\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2304640c7528f01217196169c8eed7b7f3b5d0fa">
+        <dex dex="C:\Users\maxime\Desktop\webview android\WebviewMax\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ca9ef13a25da85c3f1177ee906d7f79d5ce9c591\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maxime\Desktop\webview android\WebviewMax\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\maxime\Desktop\webview android\WebviewMax\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_623a1c08955c3e203de4dd5cf556ea732fd4e504\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maxime\Desktop\webview android\WebviewMax\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\maxime\Desktop\webview android\WebviewMax\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_b820a6fa0e0915d1135ca3bb971ab605feb4c19f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maxime\Desktop\webview android\WebviewMax\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f223f23b92703e9464f1c0d0b76cb0bcbe8b388b">
+        <dex dex="C:\Users\maxime\Desktop\webview android\WebviewMax\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fcf3b93f0aaab0dac5d197b1acbb541d9c159e99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maxime\Desktop\webview android\WebviewMax\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\maxime\Desktop\webview android\WebviewMax\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_58cea20e6af0875e27537c33998b2d4247c980e6\classes.dex" />
+    </item>
+
+</items>
