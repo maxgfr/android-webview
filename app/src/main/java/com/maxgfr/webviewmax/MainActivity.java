@@ -24,14 +24,14 @@ public class MainActivity extends AppCompatActivity {
         ConnectivityManager manager = (ConnectivityManager) getSystemService(Context.CONNECTIVITY_SERVICE);
         NetworkInfo networkInfo = manager.getActiveNetworkInfo();
         if (networkInfo == null || networkInfo.isConnected() == false) {
-            webView.loadData("<h1>Problème de connexion internet...<h1>", "text/html", null);
+            webView.loadData("<h1>Pas de connexion internet...<h1>", "text/html", null);
             return;
         }
 
 
         webView.getSettings().setJavaScriptEnabled(true);
         webView.setWebViewClient(new WebViewClient());
-        webView.loadUrl("http://www.creatb.gq/");
+        webView.loadUrl("http://www.google.com/");
     }
 
 
